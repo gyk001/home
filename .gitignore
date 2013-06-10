@@ -20,3 +20,6 @@ Public/
 .oh-my-zsh/
 .zsh_history
 .zshrc
+.vim/
+.neocomplcache/
+.vim_mru_files
